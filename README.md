@@ -18,5 +18,19 @@
 ## Getting Test ETH :
 #### To begin deploying our contract on the Ethereum Sepolia testnet, we need to install the MetaMask browser extension. Once our wallet is set up,we need to acquire some test ETH.
 #### I get faucets for Sepolia network for testing deployment on test network from [Link Text](https://cloud.google.com/application/web3/faucet)
+## Writing the Smart Contract:
+#### I use the OpenZeppelin ERC-20 contract to create our token. With OpenZeppelin, we don’t need to write the whole ERC-20 interface. Instead, we can import the library contract and use its functions.
+#### Now I go to ethereum remix ide and make a new solidity file,( MyToken.sol)
+### Write the following code into new Solidity script:
+#### ```// SPDX-License-Identifier: MIT
+#### pragma solidity ^0.8.20;
+#### import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+#### contract MyToken is ERC20 {
+####    constructor() ERC20("MyToken", "MT") {
+####        _mint(msg.sender, 1000000 * (10 ** uint256(decimals())));
+####    }
+#### }```
+
+
 
 

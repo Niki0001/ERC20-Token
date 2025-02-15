@@ -31,6 +31,19 @@
 ####    }
 #### }```
 #### ![Screenshot](![Screenshot 2025-02-15 164925](https://github.com/user-attachments/assets/5a704391-45b2-404a-9bcb-7ef89e6e8f5c)
+# Deployment:
+#### After completed the smart contract,proceed to compile it.
+#### ![Screenshot 2025-02-15 170013](https://github.com/user-attachments/assets/02f8e164-5790-4a9c-9edc-ed088c2bca42)
+#### Go to the Deploy & Run Transactions tab. For deployment, use the Injected Provider option under the Environment. Before the deployment, ensure that your MetaMask is set to the Sepolia testnet, and MyToken contract is the selected contract to be deployed. Finally, click on the Deploy button to deploy your contract.
+#### ![Screenshot 2025-02-15 170741](https://github.com/user-attachments/assets/a7b7eab2-bfaf-493d-99bb-6c0579d2e52b)
+####  Go to the Deploy & Run Transactions tab. For deployment, use the Injected Provider option under the Environment. Before the deployment, ensure that your MetaMask is set to the Sepolia testnet, and MyToken contract is the selected contract to be deployed. Finally, click on the Deploy button to deploy your contract.
+#### Now,Confirm the transaction in metamask.
+#### Our token contract is now deployed on Ethereum’s Sepolia testnet!
+#### ![Screenshot 2025-02-15 171410](https://github.com/user-attachments/assets/a4ba3205-2578-45d0-a575-d0de1ad5e52d)
+
+
+
+
 
 
 

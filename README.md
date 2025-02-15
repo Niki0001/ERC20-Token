@@ -39,7 +39,14 @@
 ####  Go to the Deploy & Run Transactions tab. For deployment, use the Injected Provider option under the Environment. Before the deployment, ensure that your MetaMask is set to the Sepolia testnet, and MyToken contract is the selected contract to be deployed. Finally, click on the Deploy button to deploy your contract.
 #### Now,Confirm the transaction in metamask.
 #### Our token contract is now deployed on Ethereum’s Sepolia testnet!
-#### ![Screenshot 2025-02-15 171410](https://github.com/user-attachments/assets/a4ba3205-2578-45d0-a575-d0de1ad5e52d)
+#### To see your contract on a blockchain explorer, a beginner-friendly useful tool used to analyze various blockchain data, go to the Etherscan Sepolia Explorer and search your contract's address.
+#### ![Screenshot 2025-02-15 171808](https://github.com/user-attachments/assets/f56f88b4-c9e5-4355-8d43-586e70b7455c)
+#### If we want to see your token in our MetaMask, copy the deployed contract’s address using the copy button near the contract’s name. Then, open MetaMask, click on the Import tokens button and paste the contract’s address in the Token contract address field. MetaMask will fetch the Token Symbol and decimals automatically. Click the Next and Import, and our token will be added to the wallet; it will be available under the assets section in Metamask.
+#### ![Screenshot 2025-02-15 171410](https://github.com/user-attachments/assets/a978fd8e-f13f-4ecf-b541-dd49a73eebb2)
+
+
+
+
 
 
 

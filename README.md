@@ -1,6 +1,6 @@
 # TASK DESCRIPTION
 ## WHAT I DO IN THIS TASK :-Create and Deploy an ERC20 Token
-#### I need a Web3 Wallet =Metamask ,Test ETH,A modern browser e.g.Chrome.
+#### we need a Web3 Wallet =Metamask ,Test ETH,A modern browser e.g.Chrome.
 ## What is an ERC20 token?
 #### ERC stands for Ethereum Request for Comment, and 20 is the proposal identifier number. ERC-20 was designed to improve the Ethereum network.ERC-20 is one of the most significant ERCs. It has emerged as the technical standard for writing smart contracts on the Ethereum blockchain network, used for token implementation. ERC-20 contains a set of rules that all Ethereum based tokens must follow.
 ## Key Points about ERC-20 Tokens:

@@ -30,6 +30,31 @@
 ####        _mint(msg.sender, 1000000 * (10 ** uint256(decimals())));
 ####    }
 #### }```
+#### ![Screenshot](![Screenshot 2025-02-15 164925](https://github.com/user-attachments/assets/5a704391-45b2-404a-9bcb-7ef89e6e8f5c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
